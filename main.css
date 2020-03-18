@@ -1,0 +1,22 @@
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+h1 {
+	color: green;
+	font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+.subtitle {
+	color: green;
+	border:2px solid red;
+	background: blue;
+}
+button {
+	font-family: 'Oswald', sans-serif;
+}
+
+.text {
+	background:yellow;
+}
+
